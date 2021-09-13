@@ -2,7 +2,7 @@
 
 ## I am a Computer Engineering student and Developer!
 
-## Currently, I work as the IT and Content Coordinator at Innunco Academy
+### Currently, I work as the IT and Content Coordinator at Innunco Academy
 
 <br />
 <br />
