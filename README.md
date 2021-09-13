@@ -1,8 +1,8 @@
 ### Hello! I am Atiqul Islam - Here is my [site][website]
 
-## I am a Computer Engineering student, IT Coordinator and Developer!
+## I am a Computer Engineering student and Developer!
 
--
+## Currently, I work as the IT and Content Coordinator at Innunco Academy
 
 <br />
 <br />
