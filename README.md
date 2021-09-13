@@ -1,4 +1,4 @@
-### Hello! I am Atiqul Islam [website]
+### Hello! I am Atiqul Islam - Here is my [website][website]
 
 ## I am a Computer Engineering student, IT Coordinator and Developer!
 
