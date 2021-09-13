@@ -1,4 +1,4 @@
-### Hello! I am Atiqul Islam - Here is my [website][website]
+### Hello! I am Atiqul Islam - Here is my [website][https://atiqulislam.netlify.app/]
 
 ## I am a Computer Engineering student, IT Coordinator and Developer!
 
