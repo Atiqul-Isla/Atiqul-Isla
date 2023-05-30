@@ -1,6 +1,6 @@
 ### Hello! I am Atiqul Islam 
 
-## I am a Computer Engineering student and Developer!
+## I am a Computer Engineering graduate and Developer!
 
 ### If you have any need to contact me, my email is: isla.atiqul@gmail.com
 
