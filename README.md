@@ -1,4 +1,4 @@
-### Hello! I am Atiqul Islam 
+### Hello! I am Atiq 
 
 ## I am a Computer Engineering graduate and Developer!
 
@@ -24,5 +24,4 @@
 <br />
 <br />
 
-[website]: https://atiqulislam.netlify.app/
 [linkedin]: https://www.linkedin.com/in/islam-atiqul/
